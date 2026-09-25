@@ -1,11 +1,11 @@
 # <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=220&section=header&text=Lê%20Tuấn%20Khanh&fontSize=42&fontAlignY=36&desc=Full-Stack%20•%20Mobile%20/%20Game%20Dev%20•%20AI%20&%20Computer%20Vision&descFontSize=19&descAlignY=62&fontColor=ffffff&descColor=61DAFB&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=220&section=header&text=Lê%20Tuấn%20Khanh&fontSize=42&fontAlignY=36&desc=Full-Stack%20•%20Software%20Architecture%20•%20Agentic%20AI%20&%20Computer%20Vision&descFontSize=18&descAlignY=62&fontColor=ffffff&descColor=61DAFB&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/khanhx419">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+L%C3%AA+Tu%E1%BA%A5n+Khanh+%F0%9F%91%8B;Full-Stack+%26+Mobile+Application+Developer;Game+Dev+%26+Emulator+Enthusiast+%F0%9F%8E%AE;AI+Computer+Vision+%26+Deep+Learning+%F0%9F%A4%96;Always+crafting+high-performance+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+L%C3%AA+Tu%E1%BA%A5n+Khanh+%F0%9F%91%8B;Full-Stack+%26+Software+Architecture+Enthusiast;Multi-Agent+AI+%26+SDLC+Governance+%F0%9F%A4%96;Game+Dev+%26+Emulator+Creator+%F0%9F%8E%AE;Deep+Learning+%26+Computer+Vision+Engineer;Always+crafting+high-performance+software!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,39 +21,40 @@
 
 ### 👨‍💻 Về bản thân (About Me)
 
-- 🔭 **Định hướng & Đam mê:** Lập trình viên đa nền tảng (**Full-Stack Web**, **Mobile App**, **2D Game / Emulators**, và **AI Computer Vision / Deep Learning**).
-- 💡 **Thế mạnh:**
-  - Phát triển ứng dụng Web hiệu năng cao với **React 19, TypeScript, Vite, Tailwind CSS, Zustand**.
-  - Xây dựng ứng dụng di động & đa nền tảng với **Flutter / Dart** và **Capacitor (Android APK)**.
-  - Xử lý ảnh thị giác máy tính & Deep Learning với **Python, OpenCV, Ultralytics YOLOv8, PyTorch**.
-  - Xây dựng hệ thống Backend ổn định, chuẩn RESTful với **Node.js, Express, PostgreSQL, Socket.io**.
-- 🎯 **Mục tiêu:** Không ngừng học hỏi các công nghệ mới, tối ưu hóa hiệu năng phần mềm và kiến trúc hệ thống phân tán.
-- ⚡ **Sở thích:** Khám phá kiến trúc máy ảo/giả lập (Emulation), AI Multi-Agent, và Game Mechanics.
+- 🔭 **Định hướng & Đam mê:** Lập trình viên đa nền tảng với thế mạnh về **Kiến trúc phần mềm (Software Architecture & Design Patterns)**, **Hệ thống AI Multi-Agent**, **Full-Stack Web**, và **Mobile / Emulation Development**.
+- 💡 **Thế mạnh công nghệ:**
+  - **Kiến trúc & Mẫu thiết kế (Design Patterns):** Áp dụng sâu sắc 7 mẫu thiết kế GoF (*Factory, Prototype, Composite, Decorator, Command, Observer, Strategy*) xây dựng hệ thống module hóa, mở rộng linh hoạt theo nguyên lý SOLID.
+  - **Agentic AI & SDLC Governance:** Nghiên cứu và triển khai mô hình Multi-Agent điều phối tự động (*Hub-and-Spoke, SCR Self-Correction Loop, Automated Testing & SAST Security Guardrails*).
+  - **Phát triển Web Full-Stack:** Xây dựng từ Custom MVC thuần đến Single Page App hiện đại (**React 19, TypeScript, Vite, Tailwind CSS, PHP Custom MVC, Node.js Express, PostgreSQL, MySQL**).
+  - **Computer Vision & Deep Learning:** Huấn luyện mô hình nhận diện thời gian thực với **Ultralytics YOLOv8, PyTorch (CUDA), OpenCV**.
+  - **Cross-platform & Game/Emulator:** Xây dựng trình giả lập phần cứng GBA, engine game cờ vua (Stockfish Worker), và ứng dụng đa nền tảng bằng **Flutter / Dart, Capacitor**.
+- 🎯 **Mục tiêu:** Không ngừng chinh phục các bài toán kỹ thuật phức tạp, tối ưu hóa thuật toán và kiến trúc các hệ thống phân tán chịu tải cao.
 
 ---
 
 ### 🛠️ Kỹ năng công nghệ (Tech Stack & Tools)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,java,cs,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,dart,cpp,cs,html,css" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,nodejs,express,postgres,mysql" alt="Frameworks & Databases" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,nodejs,express,postgres,mysql,bootstrap" alt="Frameworks & Databases" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,vscode,postman" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,vscode,postman,maven" alt="DevOps & Tools" />
 </div>
 
 <br/>
 
 <details open>
-<summary><b>📂 Chi tiết phân loại công nghệ</b></summary>
+<summary><b>📂 Chi tiết phân loại kỹ năng</b></summary>
 
-| Lĩnh vực | Công nghệ / Thư viện |
+| Lĩnh vực | Công nghệ / Nền tảng |
 | :--- | :--- |
-| **Ngôn ngữ lập trình** | `TypeScript`, `JavaScript (ES6+)`, `Python 3`, `Dart`, `C++`, `Java`, `C# (.NET)` |
-| **Frontend & Mobile** | `React 19`, `Vite`, `Tailwind CSS`, `Zustand`, `Flutter`, `Capacitor`, `HTML5 / Canvas` |
-| **Backend & Database** | `Node.js`, `Express 5`, `PostgreSQL`, `MySQL`, `Socket.io`, `RESTful API`, `JWT` |
-| **AI / Computer Vision** | `Ultralytics YOLOv8`, `PyTorch (CUDA)`, `OpenCV`, `Object Detection & Tracking` |
-| **Công cụ & Môi trường** | `Git`, `VS Code`, `Android Studio`, `Postman`, `Docker`, `Linux / Windows Powershell` |
+| **Ngôn ngữ lập trình** | `TypeScript`, `JavaScript (ES6+)`, `Java (Spring/Core)`, `PHP (Custom MVC)`, `Python 3`, `Dart`, `C++`, `C#` |
+| **Kiến trúc & Mẫu thiết kế** | `GoF Design Patterns (7 Patterns)`, `Clean Architecture`, `Custom MVC`, `Hub-and-Spoke Multi-Agent`, `RESTful API` |
+| **Frontend & Mobile** | `React 19`, `Vite`, `Tailwind CSS`, `Zustand`, `Flutter`, `Capacitor (Android APK)`, `HTML5 / Canvas` |
+| **Backend & Cơ sở dữ liệu** | `Node.js`, `Express 5`, `PHP PDO`, `PostgreSQL`, `MySQL`, `Socket.io`, `JWT Auth`, `Cron Jobs` |
+| **AI, Computer Vision & QA** | `Multi-Agent Governance`, `Ultralytics YOLOv8`, `PyTorch (CUDA)`, `OpenCV`, `SAST Scanning (Bandit)` |
+| **Công cụ & Môi trường** | `Git`, `Maven`, `StarUML`, `VS Code`, `Android Studio`, `Postman`, `Docker`, `cPanel / Apache` |
 
 </details>
 
@@ -61,26 +62,89 @@
 
 ### 🚀 Dự án tiêu biểu (Featured Projects)
 
-Dưới đây là một số dự án nổi bật mà mình đã nghiên cứu và phát triển:
-
 <table>
+  <!-- Row 1: Smart PMS AI & Cafe Shop 7 Patterns -->
   <tr>
     <td width="50%">
-      <h3 align="center">🎮 GBA_K Emulator</h3>
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/smart_pms_ai">🤖 Smart PMS AI — Agentic SDLC Governance</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Architecture-Hub--and--Spoke-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Multi--Agent%20SDLC-blue?style=flat-square" />
+      </p>
+      <p>Khung quản trị và đảm bảo chất lượng tự động cho vòng đời phát triển phần mềm bằng hệ thống Autonomous Multi-Agent.</p>
+      <ul>
+        <li>Mô hình điều phối <b>Hub-and-Spoke</b>: Coordinator Hub kết hợp các Spoke (StoryPlanner, Developer FE/BE, QA, PM Governance).</li>
+        <li>Cơ chế tự sửa lỗi <b>Self-Correction Loop (SCR)</b> khi test coverage không đạt ngưỡng ($\ge 80\%$).</li>
+        <li>Tích hợp 3 chế độ kiểm soát: <code>OFF</code>, <code>BASIC</code>, và <code>STRICT</code> (SAST bảo mật chống SQLi, lộ bí mật).</li>
+        <li>Định lượng chỉ số khoa học: <i>Agentic Velocity (AV)</i> và <i>Governance Overhead (GO)</i>.</li>
+      </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/smart_pms_ai"><b>Xem mã nguồn trên GitHub</b></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/Cafe_shop">☕ Coffee Shop — 7 GoF Design Patterns</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Design%20Patterns-7%20GoF%20Patterns-success?style=flat-square" />
+      </p>
+      <p>Hệ thống quản lý quán cà phê doanh nghiệp áp dụng chuyên sâu <b>7 GoF Design Patterns</b> chuẩn kiến trúc hướng đối tượng:</p>
+      <ul>
+        <li><b>Factory Method & Prototype</b>: Khởi tạo đồ uống động theo phân loại và nhân bản cấu hình công thức mẫu.</li>
+        <li><b>Composite</b>: Tổ chức cây phân cấp danh mục menu và combo món ăn linh hoạt.</li>
+        <li><b>Decorator</b>: Tính tiền tự động khi bổ sung các loại topping/size không làm biến đổi lớp cơ sở.</li>
+        <li><b>Command, Observer & Strategy</b>: Đóng gói lệnh gọi món (Undo/Queue), đồng bộ trạng thái đơn hàng thời gian thực và đa dạng chiến lược thanh toán.</li>
+      </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/Cafe_shop"><b>Xem mã nguồn trên GitHub</b></a></p>
+    </td>
+  </tr>
+
+  <!-- Row 2: ShopAcc VN (mxh_web) & GBA Emulator -->
+  <tr>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/mxh_web">🌐 ShopAcc VN & Social Platform (mxh_web)</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Framework-Custom%20PHP%20MVC-777BB4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Production-Live%20Deploy-brightgreen?style=flat-square" />
+      </p>
+      <p>Nền tảng thương mại điện tử chuyên cung cấp dịch vụ mạng xã hội và tài khoản số, tự xây dựng Custom MVC từ đầu.</p>
+      <ul>
+        <li>Tự thiết kế <b>Custom MVC Core</b>: Bộ định tuyến Router thông minh, Base Controller và Base Model CRUD an toàn.</li>
+        <li>Hệ thống <b>Nạp tiền tự động</b> (Auto Banking Deposit) qua Webhook & tiến trình Cron ngầm bảo mật cao.</li>
+        <li>Tích hợp hệ sinh thái gamification: Vòng quay may mắn (Lucky Wheel), Túi mù (Blind Box), tích điểm thưởng và minigame cờ vua.</li>
+        <li>Tối ưu hóa triển khai Production trên cPanel/Apache với cơ chế rewrite URL và bảo mật HTTPS.</li>
+      </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/mxh_web"><b>Xem mã nguồn trên GitHub</b></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/GBA_emulator">🎮 GBA_K Emulator — Web & Android APK</a>
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android%20APK-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20Vite%20%7C%20Capacitor-blue?style=flat-square" />
       </p>
-      <p>Trình giả lập <b>Game Boy Advance</b> hiện đại chạy mượt mà trên cả trình duyệt Web và thiết bị Android (đóng gói APK độc lập).</p>
+      <p>Trình giả lập Game Boy Advance hiện đại chạy mượt mà trên cả trình duyệt Web và thiết bị Android (đóng gói APK độc lập).</p>
       <ul>
         <li>Tương thích ROM <code>.gba</code> với nhận diện SRAM, Flash 64K/128K, EEPROM.</li>
         <li>Hệ thống điều khiển cảm ứng: D-Pad, Floating Joystick, Turbo A/B, Haptic feedback.</li>
         <li>Save / Load 6 states có ảnh thumbnail preview, xuất/nhập save <code>.sav</code>.</li>
         <li>Hỗ trợ Fast-Forward (1.0x - 5.0x), bộ lọc Shaders (LCD GBA SP, CRT Scanlines) & Cheat Code manager.</li>
       </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/GBA_emulator"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
+  </tr>
+
+  <!-- Row 3: Chess Checker Pro & YOLOv8 Traffic -->
+  <tr>
     <td width="50%">
-      <h3 align="center">♟️ Chess Checker Pro</h3>
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/chess_checker">♟️ Chess Checker Pro — Stockfish Engine</a>
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Stack-React%2019%20%7C%20TypeScript%20%7C%20Vite-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Engine-Stockfish%20WebWorker-orange?style=flat-square" />
@@ -92,12 +156,12 @@ Dưới đây là một số dự án nổi bật mà mình đã nghiên cứu v
         <li>Trực quan hóa trực quan: Thanh đo lợi thế <b>EvalBar</b>, biểu đồ <b>EvalGraph</b> qua từng nước cờ.</li>
         <li>Hỗ trợ nhập xuất file PGN, xoay bàn cờ và tính năng gợi ý nước đi tối ưu tức thì.</li>
       </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/chess_checker"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%">
-      <h3 align="center">🚗 YOLOv8 Traffic Detection & Counting</h3>
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/YOLO_Learning">🚗 YOLOv8 Traffic Detection & Counting</a>
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/AI-YOLOv8%20%7C%20PyTorch%20CUDA-red?style=flat-square" />
         <img src="https://img.shields.io/badge/Accuracy-mAP50%2091.1%25-success?style=flat-square" />
@@ -109,9 +173,16 @@ Dưới đây là một số dự án nổi bật mà mình đã nghiên cứu v
         <li>Tích hợp lớp bảo vệ <code>check_video_safe</code> ngăn chặn crash do file hỏng hoặc quá tải bộ nhớ.</li>
         <li>Đạt độ chính xác <b>mAP50 91.1%</b> sau 50 epochs huấn luyện.</li>
       </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/YOLO_Learning"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
+  </tr>
+
+  <!-- Row 4: Barking Battle & Break Pixel -->
+  <tr>
     <td width="50%">
-      <h3 align="center">🐶 Barking Battle</h3>
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/Barking_Game">🐶 Barking Battle — Web Audio Multiplayer</a>
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Socket.io-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Audio-Web%20Audio%20API-orange?style=flat-square" />
@@ -123,12 +194,12 @@ Dưới đây là một số dự án nổi bật mà mình đã nghiên cứu v
         <li>Đa dạng giống chó với avatar biến đổi kích thước động theo tỉ số trận đấu.</li>
         <li>Đồng bộ hóa phòng chơi thời gian thực qua WebSocket (Socket.io).</li>
       </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/Barking_Game"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%">
-      <h3 align="center">🧱 Break Pixel Arcade Engine</h3>
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/break_pixel">🧱 Break Pixel Arcade Engine</a>
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-02569B?style=flat-square" />
         <img src="https://img.shields.io/badge/Type-Custom%202D%20Engine-teal?style=flat-square" />
@@ -139,19 +210,7 @@ Dưới đây là một số dự án nổi bật mà mình đã nghiên cứu v
         <li>Tối ưu hóa hiệu năng render 60 FPS trên cả Web và Android.</li>
         <li>Tích hợp hệ thống hiệu ứng âm thanh sống động (Audio Service abstraction).</li>
       </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 HIS — Hospital Information System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%205-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square" />
-      </p>
-      <p>Hệ thống thông tin quản lý bệnh viện toàn diện, phân quyền đa tầng và kiểm thử tự động.</p>
-      <ul>
-        <li>Module khám chữa bệnh: Tiếp đón, Tìm kiếm bệnh nhân, Bác sĩ kê đơn, Chẩn đoán.</li>
-        <li>Phân hệ Viện phí (Cashier Billing) và Quản lý Xét nghiệm / Chẩn đoán hình ảnh (Lab & PACS).</li>
-        <li>Hệ thống kiểm thử tự động (Unit / Integration Test) bao phủ các nghiệp vụ cốt lõi.</li>
-      </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/break_pixel"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
   </tr>
 </table>
