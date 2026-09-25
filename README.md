@@ -1,11 +1,11 @@
 # <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=220&section=header&text=Lê%20Tuấn%20Khanh&fontSize=42&fontAlignY=36&desc=Full-Stack%20•%20Mobile%20/%20Game%20Dev%20•%20AI%20&%20Automation&descFontSize=19&descAlignY=62&fontColor=ffffff&descColor=61DAFB&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=220&section=header&text=Lê%20Tuấn%20Khanh&fontSize=42&fontAlignY=36&desc=Full-Stack%20•%20Mobile%20/%20Game%20Dev%20•%20AI%20&%20Computer%20Vision&descFontSize=19&descAlignY=62&fontColor=ffffff&descColor=61DAFB&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/khanhx419">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+L%C3%AA+Tu%E1%BA%A5n+Khanh+%F0%9F%91%8B;Full-Stack+%26+Mobile+Application+Developer;Game+Dev+%26+Emulator+Enthusiast+%F0%9F%8E%AE;AI+Vision+%26+RPA+Automation+Engineer+%F0%9F%A4%96;Always+crafting+high-performance+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+L%C3%AA+Tu%E1%BA%A5n+Khanh+%F0%9F%91%8B;Full-Stack+%26+Mobile+Application+Developer;Game+Dev+%26+Emulator+Enthusiast+%F0%9F%8E%AE;AI+Computer+Vision+%26+Deep+Learning+%F0%9F%A4%96;Always+crafting+high-performance+projects!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,11 +21,11 @@
 
 ### 👨‍💻 Về bản thân (About Me)
 
-- 🔭 **Định hướng & Đam mê:** Lập trình viên đa nền tảng (**Full-Stack Web**, **Mobile App**, **2D Game / Emulators**, và **AI Computer Vision / Automation**).
+- 🔭 **Định hướng & Đam mê:** Lập trình viên đa nền tảng (**Full-Stack Web**, **Mobile App**, **2D Game / Emulators**, và **AI Computer Vision / Deep Learning**).
 - 💡 **Thế mạnh:**
   - Phát triển ứng dụng Web hiệu năng cao với **React 19, TypeScript, Vite, Tailwind CSS, Zustand**.
   - Xây dựng ứng dụng di động & đa nền tảng với **Flutter / Dart** và **Capacitor (Android APK)**.
-  - Tự động hóa quy trình (RPA), xử lý ảnh thị giác máy tính với **Python, OpenCV, Tesseract OCR, YOLOv8**.
+  - Xử lý ảnh thị giác máy tính & Deep Learning với **Python, OpenCV, Ultralytics YOLOv8, PyTorch**.
   - Xây dựng hệ thống Backend ổn định, chuẩn RESTful với **Node.js, Express, PostgreSQL, Socket.io**.
 - 🎯 **Mục tiêu:** Không ngừng học hỏi các công nghệ mới, tối ưu hóa hiệu năng phần mềm và kiến trúc hệ thống phân tán.
 - ⚡ **Sở thích:** Khám phá kiến trúc máy ảo/giả lập (Emulation), AI Multi-Agent, và Game Mechanics.
@@ -52,7 +52,7 @@
 | **Ngôn ngữ lập trình** | `TypeScript`, `JavaScript (ES6+)`, `Python 3`, `Dart`, `C++`, `Java`, `C# (.NET)` |
 | **Frontend & Mobile** | `React 19`, `Vite`, `Tailwind CSS`, `Zustand`, `Flutter`, `Capacitor`, `HTML5 / Canvas` |
 | **Backend & Database** | `Node.js`, `Express 5`, `PostgreSQL`, `MySQL`, `Socket.io`, `RESTful API`, `JWT` |
-| **AI / Computer Vision / RPA** | `Ultralytics YOLOv8`, `PyTorch (CUDA)`, `OpenCV`, `Tesseract OCR`, `ADB Automation` |
+| **AI / Computer Vision** | `Ultralytics YOLOv8`, `PyTorch (CUDA)`, `OpenCV`, `Object Detection & Tracking` |
 | **Công cụ & Môi trường** | `Git`, `VS Code`, `Android Studio`, `Postman`, `Docker`, `Linux / Windows Powershell` |
 
 </details>
@@ -97,20 +97,6 @@ Dưới đây là một số dự án nổi bật mà mình đã nghiên cứu v
 
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 AOV Tools — Multi-Instance RPA</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20OpenCV%20%7C%20Tesseract-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Emulator-LDPlayer%209-purple?style=flat-square" />
-      </p>
-      <p>Hệ thống tự động hóa RPA đa tiến trình điều khiển game Liên Quân Mobile trên nhiều giả lập cùng lúc.</p>
-      <ul>
-        <li>Kiến trúc <b>Master / Slave</b> đồng bộ hóa hành động giữa các máy trạm qua <code>threading.Event</code>.</li>
-        <li>Nhận diện giao diện bằng <b>OpenCV Template Matching</b> & cơ chế tự phục hồi khi có lỗi (retry / dismiss popup).</li>
-        <li>Trích xuất Room ID tự động bằng <b>Tesseract OCR</b> qua pipeline tiền xử lý ảnh (grayscale + upscale + binarize).</li>
-        <li>Điều tiết tần suất lệnh ADB (throttling) chống tràn bộ nhớ và giật lag giả lập.</li>
-      </ul>
-    </td>
-    <td width="50%">
       <h3 align="center">🚗 YOLOv8 Traffic Detection & Counting</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/AI-YOLOv8%20%7C%20PyTorch%20CUDA-red?style=flat-square" />
@@ -122,22 +108,6 @@ Dưới đây là một số dự án nổi bật mà mình đã nghiên cứu v
         <li>Tối ưu hóa pipeline huấn luyện chuyên sâu cho máy tính RAM 8GB + GPU RTX 4050 (6GB VRAM).</li>
         <li>Tích hợp lớp bảo vệ <code>check_video_safe</code> ngăn chặn crash do file hỏng hoặc quá tải bộ nhớ.</li>
         <li>Đạt độ chính xác <b>mAP50 91.1%</b> sau 50 epochs huấn luyện.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">🐑 Sheep Farm Defense</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Game-2D%20Web%20Game-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-React%2019%20%7C%20Vite%20%7C%20Canvas-61DAFB?style=flat-square" />
-      </p>
-      <p>Tựa game 2D kết hợp độc đáo giữa quản lý nông trại ban ngày và chiến đấu Bullet-Hell theo lượt phong cách Undertale ban đêm.</p>
-      <ul>
-        <li>Vòng lặp ngày/đêm với cơ chế điều tra sói ngụy trang trà trộn trong bầy cừu.</li>
-        <li>Hệ thống chiến đấu né đạn (Bullet-hell combat box) mượt mà bằng Canvas.</li>
-        <li>Cân bằng kinh tế trang trại: thu hoạch, tích lũy xu và mở khóa vật phẩm.</li>
       </ul>
     </td>
     <td width="50%">
