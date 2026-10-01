@@ -1,11 +1,11 @@
 # <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=220&section=header&text=Lê%20Tuấn%20Khanh&fontSize=42&fontAlignY=36&desc=Full-Stack%20•%20Software%20Architecture%20•%20Agentic%20AI%20&%20Computer%20Vision&descFontSize=18&descAlignY=62&fontColor=ffffff&descColor=61DAFB&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=220&section=header&text=Lê%20Tuấn%20Khanh&fontSize=42&fontAlignY=36&desc=Full-Stack%20•%20Software%20Architecture%20•%20Agentic%20AI%20&%20Native%20Emulation&descFontSize=18&descAlignY=62&fontColor=ffffff&descColor=61DAFB&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/khanhx419">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+L%C3%AA+Tu%E1%BA%A5n+Khanh+%F0%9F%91%8B;Full-Stack+%26+Software+Architecture+Enthusiast;Multi-Agent+AI+%26+SDLC+Governance+%F0%9F%A4%96;Game+Dev+%26+Emulator+Creator+%F0%9F%8E%AE;Deep+Learning+%26+Computer+Vision+Engineer;Always+crafting+high-performance+software!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+L%C3%AA+Tu%E1%BA%A5n+Khanh+%F0%9F%91%8B;Full-Stack+%26+Software+Architecture+Enthusiast;GBA+Native+Emulator+Creator+(C%2B%2B+%2F+NDK)+%E2%9A%A1;Multi-Agent+AI+%26+SDLC+Governance+%F0%9F%A4%96;Deep+Learning+%26+Computer+Vision+Engineer;Always+crafting+high-performance+software!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,13 +21,14 @@
 
 ### 👨‍💻 Về bản thân (About Me)
 
-- 🔭 **Định hướng & Đam mê:** Lập trình viên đa nền tảng với thế mạnh về **Kiến trúc phần mềm (Software Architecture & Design Patterns)**, **Hệ thống AI Multi-Agent**, **Full-Stack Web**, và **Mobile / Emulation Development**.
+- 🔭 **Định hướng & Đam mê:** Lập trình viên đa nền tảng với thế mạnh về **Kiến trúc phần mềm (Software Architecture & Design Patterns)**, **Lập trình hệ thống & Giả lập Native (C/C++ NDK)**, **Hệ thống AI Multi-Agent**, và **Full-Stack Web/Mobile**.
 - 💡 **Thế mạnh công nghệ:**
+  - **Lập trình hệ thống & Giả lập Native (Emulation & Systems):** Xây dựng trình giả lập Game Boy Advance thuần Native Android tối ưu hiệu năng cao với **C/C++ (mGBA Core), Android NDK Clang -O3, Jetpack Compose, OpenGL ES shaders**, và xử lý âm thanh siêu trễ thấp **Google Oboe (< 5ms)**.
   - **Kiến trúc & Mẫu thiết kế (Design Patterns):** Áp dụng sâu sắc 7 mẫu thiết kế GoF (*Factory, Prototype, Composite, Decorator, Command, Observer, Strategy*) xây dựng hệ thống module hóa, mở rộng linh hoạt theo nguyên lý SOLID.
   - **Agentic AI & SDLC Governance:** Nghiên cứu và triển khai mô hình Multi-Agent điều phối tự động (*Hub-and-Spoke, SCR Self-Correction Loop, Automated Testing & SAST Security Guardrails*).
   - **Phát triển Web Full-Stack:** Xây dựng từ Custom MVC thuần đến Single Page App hiện đại (**React 19, TypeScript, Vite, Tailwind CSS, PHP Custom MVC, Node.js Express, PostgreSQL, MySQL**).
   - **Computer Vision & Deep Learning:** Huấn luyện mô hình nhận diện thời gian thực với **Ultralytics YOLOv8, PyTorch (CUDA), OpenCV**.
-  - **Cross-platform & Game/Emulator:** Xây dựng trình giả lập phần cứng GBA, engine game cờ vua (Stockfish Worker), và ứng dụng đa nền tảng bằng **Flutter / Dart, Capacitor**.
+  - **Cross-platform & Game Engine:** Xây dựng ứng dụng di động đa nền tảng với **Flutter / Dart, Capacitor** và engine phân tích cờ vua thời gian thực (**Stockfish WebWorker**).
 - 🎯 **Mục tiêu:** Không ngừng chinh phục các bài toán kỹ thuật phức tạp, tối ưu hóa thuật toán và kiến trúc các hệ thống phân tán chịu tải cao.
 
 ---
@@ -35,7 +36,7 @@
 ### 🛠️ Kỹ năng công nghệ (Tech Stack & Tools)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,dart,cpp,cs,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,cpp,php,dart,cs,html,css" alt="Languages" />
   <br/>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,nodejs,express,postgres,mysql,bootstrap" alt="Frameworks & Databases" />
   <br/>
@@ -49,12 +50,13 @@
 
 | Lĩnh vực | Công nghệ / Nền tảng |
 | :--- | :--- |
-| **Ngôn ngữ lập trình** | `TypeScript`, `JavaScript (ES6+)`, `Java (Spring/Core)`, `PHP (Custom MVC)`, `Python 3`, `Dart`, `C++`, `C#` |
+| **Ngôn ngữ lập trình** | `TypeScript`, `JavaScript (ES6+)`, `C/C++ (NDK)`, `Kotlin`, `Java (Spring/Core)`, `PHP (Custom MVC)`, `Python 3`, `Dart`, `C#` |
+| **Hệ thống & Giả lập (Native)** | `Android NDK`, `mGBA Core (Clang -O3)`, `Google Oboe (AAudio)`, `OpenGL ES 2.0/3.0 Shaders`, `Jetpack Compose` |
 | **Kiến trúc & Mẫu thiết kế** | `GoF Design Patterns (7 Patterns)`, `Clean Architecture`, `Custom MVC`, `Hub-and-Spoke Multi-Agent`, `RESTful API` |
 | **Frontend & Mobile** | `React 19`, `Vite`, `Tailwind CSS`, `Zustand`, `Flutter`, `Capacitor (Android APK)`, `HTML5 / Canvas` |
 | **Backend & Cơ sở dữ liệu** | `Node.js`, `Express 5`, `PHP PDO`, `PostgreSQL`, `MySQL`, `Socket.io`, `JWT Auth`, `Cron Jobs` |
 | **AI, Computer Vision & QA** | `Multi-Agent Governance`, `Ultralytics YOLOv8`, `PyTorch (CUDA)`, `OpenCV`, `SAST Scanning (Bandit)` |
-| **Công cụ & Môi trường** | `Git`, `Maven`, `StarUML`, `VS Code`, `Android Studio`, `Postman`, `Docker`, `cPanel / Apache` |
+| **Công cụ & Môi trường** | `Git`, `Maven`, `Android Studio`, `StarUML`, `VS Code`, `Postman`, `Docker`, `cPanel / Apache` |
 
 </details>
 
@@ -63,8 +65,26 @@
 ### 🚀 Dự án tiêu biểu (Featured Projects)
 
 <table>
-  <!-- Row 1: Smart PMS AI & Cafe Shop 7 Patterns -->
+  <!-- Row 1: GBA_Native_K & Smart PMS AI -->
   <tr>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/khanhx419/GBA_Native_K">⚡ GBA_Native_K — Android Native (mGBA + NDK C++)</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Platform-Android%20Native-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Core-mGBA%20C%2B%2B%20NDK-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-blue?style=flat-square" />
+      </p>
+      <p>Trình giả lập Game Boy Advance thuần Native Android hiệu năng cao, tối ưu phần cứng từ con số 0.</p>
+      <ul>
+        <li><b>mGBA Core C/C++ (NDK)</b>: Biên dịch Clang <code>-O3 -flto</code>, khóa cứng 60 FPS với chỉ <b>~2-4% CPU</b>, tương thích 100% ROM Hack nặng (Radical Red 4.1, Unbound).</li>
+        <li><b>Âm thanh siêu trễ thấp (< 5ms)</b>: Tích hợp <b>Google Oboe (AAudio)</b> stereo 44.1kHz buffer ring không khóa.</li>
+        <li><b>Pipeline đồ họa OpenGL ES</b>: Shaders thời gian thực (Pixel Perfect, LCD Grid GBA gốc, CRT Scanlines).</li>
+        <li><b>Jetpack Compose Multi-Touch</b>: D-Pad 8 hướng radian, Turbo fire, Haptic feedback & tay cầm Bluetooth/USB.</li>
+      </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/GBA_Native_K"><b>Xem mã nguồn trên GitHub</b></a></p>
+    </td>
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/khanhx419/smart_pms_ai">🤖 Smart PMS AI — Agentic SDLC Governance</a>
@@ -82,6 +102,10 @@
       </ul>
       <p align="center">🔗 <a href="https://github.com/khanhx419/smart_pms_ai"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
+  </tr>
+
+  <!-- Row 2: Coffee Shop 7 Patterns & ShopAcc VN (mxh_web) -->
+  <tr>
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/khanhx419/Cafe_shop">☕ Coffee Shop — 7 GoF Design Patterns</a>
@@ -99,10 +123,6 @@
       </ul>
       <p align="center">🔗 <a href="https://github.com/khanhx419/Cafe_shop"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
-  </tr>
-
-  <!-- Row 2: ShopAcc VN (mxh_web) & GBA Emulator -->
-  <tr>
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/khanhx419/mxh_web">🌐 ShopAcc VN & Social Platform (mxh_web)</a>
@@ -120,26 +140,9 @@
       </ul>
       <p align="center">🔗 <a href="https://github.com/khanhx419/mxh_web"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/khanhx419/GBA_emulator">🎮 GBA_K Emulator — Web & Android APK</a>
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android%20APK-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20Vite%20%7C%20Capacitor-blue?style=flat-square" />
-      </p>
-      <p>Trình giả lập Game Boy Advance hiện đại chạy mượt mà trên cả trình duyệt Web và thiết bị Android (đóng gói APK độc lập).</p>
-      <ul>
-        <li>Tương thích ROM <code>.gba</code> với nhận diện SRAM, Flash 64K/128K, EEPROM.</li>
-        <li>Hệ thống điều khiển cảm ứng: D-Pad, Floating Joystick, Turbo A/B, Haptic feedback.</li>
-        <li>Save / Load 6 states có ảnh thumbnail preview, xuất/nhập save <code>.sav</code>.</li>
-        <li>Hỗ trợ Fast-Forward (1.0x - 5.0x), bộ lọc Shaders (LCD GBA SP, CRT Scanlines) & Cheat Code manager.</li>
-      </ul>
-      <p align="center">🔗 <a href="https://github.com/khanhx419/GBA_emulator"><b>Xem mã nguồn trên GitHub</b></a></p>
-    </td>
   </tr>
 
-  <!-- Row 3: Chess Checker Pro & YOLOv8 Traffic -->
+  <!-- Row 3: Chess Checker Pro & GBA_K Emulator (Web/APK) -->
   <tr>
     <td width="50%">
       <h3 align="center">
@@ -160,6 +163,27 @@
     </td>
     <td width="50%">
       <h3 align="center">
+        <a href="https://github.com/khanhx419/GBA_emulator">🎮 GBA_K Emulator — Web & Capacitor</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Capacitor-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20Vite%20%7C%20Canvas-blue?style=flat-square" />
+      </p>
+      <p>Bản build giả lập Game Boy Advance chạy mượt mà trên trình duyệt Web hiện đại và đóng gói Android APK qua Capacitor.</p>
+      <ul>
+        <li>Tương thích ROM <code>.gba</code> với nhận diện SRAM, Flash 64K/128K, EEPROM.</li>
+        <li>Hệ thống điều khiển cảm ứng: D-Pad, Floating Joystick, Turbo A/B, Haptic feedback.</li>
+        <li>Save / Load 6 states có ảnh thumbnail preview, xuất/nhập save <code>.sav</code>.</li>
+        <li>Hỗ trợ Fast-Forward (1.0x - 5.0x), bộ lọc Shaders (LCD GBA SP, CRT Scanlines) & Cheat Code manager.</li>
+      </ul>
+      <p align="center">🔗 <a href="https://github.com/khanhx419/GBA_emulator"><b>Xem mã nguồn trên GitHub</b></a></p>
+    </td>
+  </tr>
+
+  <!-- Row 4: YOLOv8 Traffic & Barking Battle -->
+  <tr>
+    <td width="50%">
+      <h3 align="center">
         <a href="https://github.com/khanhx419/YOLO_Learning">🚗 YOLOv8 Traffic Detection & Counting</a>
       </h3>
       <p align="center">
@@ -175,10 +199,6 @@
       </ul>
       <p align="center">🔗 <a href="https://github.com/khanhx419/YOLO_Learning"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
-  </tr>
-
-  <!-- Row 4: Barking Battle & Break Pixel -->
-  <tr>
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/khanhx419/Barking_Game">🐶 Barking Battle — Web Audio Multiplayer</a>
@@ -196,6 +216,10 @@
       </ul>
       <p align="center">🔗 <a href="https://github.com/khanhx419/Barking_Game"><b>Xem mã nguồn trên GitHub</b></a></p>
     </td>
+  </tr>
+
+  <!-- Row 5: Break Pixel & HIS Hospital -->
+  <tr>
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/khanhx419/break_pixel">🧱 Break Pixel Arcade Engine</a>
@@ -211,6 +235,21 @@
         <li>Tích hợp hệ thống hiệu ứng âm thanh sống động (Audio Service abstraction).</li>
       </ul>
       <p align="center">🔗 <a href="https://github.com/khanhx419/break_pixel"><b>Xem mã nguồn trên GitHub</b></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        🏥 HIS — Hospital Information System
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%205-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square" />
+      </p>
+      <p>Hệ thống thông tin quản lý bệnh viện toàn diện phân quyền đa tầng và kiểm thử tự động.</p>
+      <ul>
+        <li>Module khám chữa bệnh: Tiếp đón, Tìm kiếm bệnh nhân, Bác sĩ kê đơn, Chẩn đoán.</li>
+        <li>Phân hệ Viện phí (Cashier Billing) và Quản lý Xét nghiệm / Chẩn đoán hình ảnh (Lab & PACS).</li>
+        <li>Hệ thống kiểm thử tự động (Unit / Integration Test) bao phủ các nghiệp vụ cốt lõi.</li>
+      </ul>
     </td>
   </tr>
 </table>
