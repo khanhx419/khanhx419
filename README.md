@@ -1,18 +1,25 @@
-# <div align="center">
+<div align="center">
 
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=180&section=header&text=Lê%20Tuấn%20Khanh&fontSize=38&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20%E2%9C%A8&descFontSize=17&descAlignY=64&fontColor=ffffff&descColor=61DAFB&animation=fadeIn" width="100%" alt="Header Banner" />
 
-<!-- Typing Animation (Câu chào đơn giản, căn giữa, không bị cắt chữ) -->
-<a href="https://github.com/khanhx419">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=61DAFB&center=true&vCenter=true&width=450&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Khanh+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Just+learning+and+building+things." alt="Typing SVG" />
-</a>
-
-<br/>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/khanhx419">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=61DAFB&center=true&vCenter=true&width=450&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Khanh+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Just+learning+and+building+things." alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Social / Contact Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-khanhx419-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanhx419)
-[![Gmail](https://img.shields.io/badge/Gmail-khanhx419%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanhx419@gmail.com)
+<p align="center">
+  <a href="https://github.com/khanhx419">
+    <img src="https://img.shields.io/badge/GitHub-khanhx419-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:khanhx419@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-khanhx419%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 </div>
 
