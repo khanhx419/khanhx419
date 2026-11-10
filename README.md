@@ -113,21 +113,9 @@
 ### 📊 Thống kê GitHub (GitHub Stats)
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=khanhx419&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=00ADB5&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhx419&theme=tokyonight&hide_border=true&ring=61DAFB&fire=FF6B6B&currStreakLabel=61DAFB&background=0d1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhx419&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=khanhx419&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=00ADB5&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhx419&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
